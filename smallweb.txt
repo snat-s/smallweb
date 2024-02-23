@@ -7734,6 +7734,7 @@ https://smyachenkov.com/index.xml
 https://smyck.net/feed/
 https://snarfed.org/feed
 https://snarky.ca/rss/
+https://snats.xyz/feed.txt
 https://sneak.berlin/feed.xml
 https://snevsky.com/feed.xml
 https://sniffnoy.dreamwidth.org/data/rss
